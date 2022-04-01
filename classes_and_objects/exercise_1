@@ -29,8 +29,5 @@ def point_in_circle(point_obj, circle_obj):
 
   if c <= circle_obj.radius:
     return True
-  else:
-    return False
-
-def rect_in_circle(rectangle_obj, circle_obj,):
+  
 
