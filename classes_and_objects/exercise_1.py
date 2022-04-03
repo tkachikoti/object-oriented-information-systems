@@ -13,7 +13,7 @@ There are two imports in this module:
 - math is used to calculate the distance between two points.
 - copy is used to copy a Point object.
 
-Module by: Tinashe Nigel Kachikoti (@@TNKachikoti)
+Module by: Tinashe Nigel Kachikoti (@TNKachikoti)
 """
 import math
 import copy
